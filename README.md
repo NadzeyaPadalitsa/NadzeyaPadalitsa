@@ -1,4 +1,4 @@
-![Header](https://github.com/NadzeyaPadalitsa/NadzeyaPadalitsa/blob/main/assets/Nadzeya-Padalitsa.jpg)
+![Header](https://github.com/NadzeyaPadalitsa/NadzeyaPadalitsa/blob/main/assets/logo.png)
 
 ## I'm a web developer.
 
