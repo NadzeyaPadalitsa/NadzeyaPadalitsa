@@ -9,8 +9,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000010?style=for-the-badge&logo=telegram&logoColor=1E90FF)](https://www.linkedin.com/in/Nadzeya-Padalitsa/)
 
 ### My skills:
-[![HTML](https://img.shields.io/badge/-LinkedIn-000010?style=for-the-badge&logo=html5&logoColor=E34F26)]
-[![Telegram](https://img.shields.io/badge/-Telegram-000010?style=for-the-badge&logo=telegram&logoColor=1E90FF)]
+
 <img src="https://img.shields.io/badge/HTML-000010?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS-000010?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/JavaScript-000010?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
