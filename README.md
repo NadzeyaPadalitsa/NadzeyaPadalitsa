@@ -6,7 +6,7 @@
 ### Social network:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000010?style=for-the-badge&logo=linkedin&logoColor=1E90FF)](https://www.linkedin.com/in/Nadzeya-Padalitsa/)
-[![Telegram](https://img.shields.io/badge/-Telegram-000010?style=for-the-badge&logo=telegram&logoColor=1E90FF)](https://t.me/nadya31121990)
+[![Telegram](https://img.shields.io/badge/-Telegram-000010?style=for-the-badge&logo=telegram&logoColor=1E90FF)](https://t.me/NadzeyaPadalitsa)
 
 ### My skills:
 <div>
